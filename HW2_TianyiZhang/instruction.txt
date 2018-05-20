@@ -1,0 +1,2 @@
+1. Remeber to input javalib, it could help call function "In" to read data file into array properly.
+2. In linux system, I also copy the source file of function "In" to each folder which will help the code run properly. 
